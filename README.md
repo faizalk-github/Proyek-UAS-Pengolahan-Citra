@@ -131,9 +131,11 @@ http://localhost:8501/
 ---
 
 ## **🎨 7. Contoh Hasil Deteksi Objek**
-Tambahkan **screenshot hasil aplikasi**, misalnya:
+Contoh **screenshot hasil aplikasi**:
 
-![Contoh Deteksi](https://github.com/ultralytics/yolov5/raw/master/data/images/zidane.jpg)
+![Contoh Screenshot 1](https://github.com/faizalk-github/Proyek-UAS-Pengolahan-Citra/blob/de731e837c94eb473f43de122007e49a5efab9be/SS1.png)
+
+![Contoh Screenshot 2](https://github.com/faizalk-github/Proyek-UAS-Pengolahan-Citra/blob/de731e837c94eb473f43de122007e49a5efab9be/SS2.png)
 
 ---
 
@@ -143,8 +145,8 @@ Tambahkan **screenshot hasil aplikasi**, misalnya:
 
 **Contoh Output:**
 ```
-Inference Time: 0.1236 seconds
-Confidence Score: 80%
+Inference Time: 0.0889 seconds
+Confidence Score: 0,8 / 80%
 ```
 
 ---
